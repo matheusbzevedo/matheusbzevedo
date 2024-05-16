@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at Banco Ourinvest.
-- follow me: @matheusbzevedo; (if u want)
+- 🔭 I’m currently working at Omnichat.
 
 peace.
